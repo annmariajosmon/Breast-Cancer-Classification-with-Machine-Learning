@@ -2,14 +2,6 @@
 
 This repository contains a machine learning project that focuses on the classification of breast cancer using the Wisconsin breast cancer diagnostic dataset obtained from Kaggle. The project aims to help in the early diagnosis of breast cancer by utilizing machine learning techniques to analyze and predict whether a given breast mass is malignant or benign.
 
-Requirements:
-
-pandas
-
-numpy
-
-scikit-learn
-
 Workflow:
 
 1.Data Preprocessing:
